@@ -1,0 +1,7 @@
+{
+  "name": "SmartTask – Task Scheduling & Resource Allocation System",
+  "description": "An academic DAA and data analysis web application demonstrating Greedy Algorithms (Earliest Deadline First) for task scheduling and resource allocation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
